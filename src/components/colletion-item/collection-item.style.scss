@@ -2,7 +2,7 @@
     width: 22%;
     display: flex;
     flex-direction: column;
-    height: 350px;
+    height: 500px;//350
     align-items: center;
   
     .image {
@@ -23,10 +23,12 @@
       .name {
         width: 90%;
         margin-bottom: 15px;
+        font-size: 22px;
       }
   
       .price {
         width: 10%;
+        font-size: 22px;
       }
     }
   }
